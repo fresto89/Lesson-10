@@ -1,0 +1,22 @@
+/* &display=swap */
+
+@import "null.css";
+
+/* ================================================================ */
+.wrapper {
+	overflow: hidden;
+	margin: 0px auto;
+}
+/* ================================================================ */
+
+.statistics-item {
+	font-size: 14px;
+	color: red;
+}
+
+.statistics-items__number {
+	display: inline-block;
+	font-weight: 900;
+	font-size: 46px;
+	/* color: green; */
+}
